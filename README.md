@@ -1,20 +1,11 @@
 <div align="center">
-
   <h1>Hola, soy Juan José</h1>
   <h3>Cloud & DevOps Engineer in the making</h3>
-  
-  <p>
-    <em>Transformando código Java en soluciones escalables en Google Cloud.</em>
-  </p>
-
-  <br>
+  <p><em>Transformando código Java en soluciones escalables en Google Cloud.</em></p>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,gcp,docker,kubernetes,terraform,python,firebase,git,idea&theme=light" alt="My Tech Stack" />
   </a>
-
-  <br><br>
-
 </div>
 
 ### ⚡ Sobre mí
