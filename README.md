@@ -32,9 +32,6 @@ Ingeniero de Sistemas próximo a graduarme, enfocado en la intersección entre *
   <a href="https://juanjoo.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit_Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
   </a>
-
-  <br><br>
-
   <a href="https://www.linkedin.com/in/juanjoox/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
