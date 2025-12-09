@@ -33,11 +33,11 @@ Ingeniero de Sistemas próximo a graduarme, enfocado en la intersección entre *
     <img src="https://img.shields.io/badge/Visit_Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/juanjoox/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:juancn1808@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
 </div>
